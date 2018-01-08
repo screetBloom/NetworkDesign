@@ -1,0 +1,4 @@
+*.css linguist-language=network
+*.less linguist-language=network
+*.js linguist-language=network
+*.html linguist-language=network
